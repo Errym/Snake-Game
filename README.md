@@ -2,7 +2,11 @@
 
 ## 🎮 Welcome to **Snake Game**! You're a snake with one goal: **Eat everything**. But be careful, walls and your own tail will **end you**. 💀
 
-![Snake Game GIF](https://media.giphy.com/media/yourgiflinkhere/giphy.gif)
+              - name: generate-snake-game-from-github-contribution-grid
+                uses: Platane/snk@v3.0.0
+            
+
+
 
 ## 🍏 How to Play:
 1. **Arrow keys** to move. ⬆️⬇️⬅️➡️
